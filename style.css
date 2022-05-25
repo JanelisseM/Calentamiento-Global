@@ -1,0 +1,71 @@
+html, body {
+    background-color: beige
+}
+  /*
+esto no tiene un elemento para diseñar, falta la etiqueta
+
+display: flex
+  flex-direction: colum;
+  max-height: 100%;
+  max-width: 1000px;
+  margin: auto;
+  border: solid;
+  nav a{
+   color:black;
+   margin-right: 10px;
+ } */
+ nav a{
+  color:  black;
+   /* poner un poco de estilo a la fuente */
+    font-family:verdana;
+   font-size:10px;
+ }
+img{
+  /* duplicado
+  min-height: 200px;
+  min-width: 200px;*/
+  min-height: 500px;
+  min-width: 500px;
+  border: solid 10px;
+}
+.titulo{
+  font-size: 30px;
+}
+.titulo h1 {
+  margin-bottom: 0;
+  padding: 0;
+  color: sandybrown;
+}
+.titulo h3{
+  margin-top: 0;
+  padding: 0;
+}
+hr a{
+  color:brown
+}
+  /* estos no son estilos para este elemento border:solid;
+  width:100%;*/
+p{
+font-family:verdana;
+}
+
+a{ /*tambien cambiando texto en su a elemmento*/
+font-family:verdana;
+}
+
+h1{ /*tambien cambiando texto en su H1 elemmento*/
+font-family:verdana;
+}
+
+h2{ /*tambien cambiando texto en su H2 elemmento*/
+font-family:verdana;
+}
+
+h3{ /*tambien cambiando texto en su H1 elemmento*/
+font-family:verdana;
+}
+
+
+
+
+  
